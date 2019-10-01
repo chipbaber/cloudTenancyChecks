@@ -1,0 +1,10 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaguyqnvlqzbtbcij7e2vhii2c3sfllqvnv5bixhzi2yd6mdwprthq
+compartment-id=ocid1.tenancy.oc1..aaaaaaaa7l6wfqydzz6otbjnhrloxf4tezittufwjlwbaoxvajvkr6hyxmba
+fingerprint=39:de:80:db:75:7c:02:88:e2:81:d3:1e:57:e9:12:63
+key_file=~/.oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaa7l6wfqydzz6otbjnhrloxf4tezittufwjlwbaoxvajvkr6hyxmba
+region=us-ashburn-1
+groupId=ocid1.group.oc1..aaaaaaaayyn62amb7vqsaaq4fslgv2zrufkf7qw42kyi2iojyizjq3fbmyia
+identityProvider=ocid1.saml2idp.oc1..aaaaaaaagtfvdqd7tazijgbq3mrboufkmap45qx6iqawf3h7yordx2yuoefq
+
