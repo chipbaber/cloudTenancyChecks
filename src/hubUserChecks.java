@@ -52,18 +52,18 @@ public class hubUserChecks {
         //hubTenancy.getHubTenancyUsersSize();
        // hubTenancy.printTenancyUsers();
 
-        //  hubTenancy.getUsersNoLongerAtOracle();
+          hubTenancy.getUsersNoLongerAtOracle();
 
         //System.out.println("User in tenancy = "+hubTenancy.userInTenancyLDAP("chip.baber@oracle.com"));
 
-        //ArrayList<Attributes> allHubUsers = new ArrayList<Attributes>();
-        //allHubUsers.addAll(hubTenancy.getOrgFromLDAP("doug.basset@oracle.com"));
-        //allHubUsers.addAll(hubTenancy.getOrgFromLDAP("frank.baber@oracle.com"));
-        //allHubUsers.addAll(hubTenancy.getOrgFromLDAP("santosh.kunchala@oracle.com"));
+       // ArrayList<Attributes> allHubUsers = new ArrayList<Attributes>();
+       // allHubUsers.addAll(hubTenancy.getOrgFromLDAP("doug.basset@oracle.com"));
+       // allHubUsers.addAll(hubTenancy.getOrgFromLDAP("frank.baber@oracle.com"));
+       // allHubUsers.addAll(hubTenancy.getOrgFromLDAP("santosh.kunchala@oracle.com"));
        // allHubUsers.addAll(hubTenancy.getOrgFromLDAP("uche.ibekwe@oracle.com "));
        // allHubUsers.addAll(hubTenancy.getOrgFromLDAP("syed.i.imam@oracle.com"));
        // allHubUsers.addAll(hubTenancy.getOrgFromLDAP("maharshi.desai@oracle.com"));
-        //System.out.println("Size of all allHubUsers is: "+ allHubUsers.size());
+       // System.out.println("Size of all allHubUsers is: "+ allHubUsers.size());
 
        // System.out.println("Get all hub users not in Tenancy."+"\n");
        // ArrayList<Attributes> toBeAddedHubsters = hubTenancy.orgUsersNotInTenancy(allHubUsers);

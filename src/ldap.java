@@ -510,6 +510,7 @@ public class ldap {
         //  Informe.logger("Searching for Total Reports.\n\n ");
         Informe.processTotalReports();
         System.out.println("\n" + name + " has " + Informe.howManyPeople() + " total Reports: ");
+        //Informe.printresults(5);
         Informe.printresults(3);
        /* System.out.println("\n\n");
         Informe.printresults(5);
